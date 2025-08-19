@@ -1,0 +1,5 @@
+index,City,Date,Card Type,Exp Type,Gender,Amount,Cumulative_Spend
+141,"Greater Mumbai, India",2013-10-04 00:00:00,Gold,Bills,F,990700,3414108
+190,"Ahmedabad, India",2013-10-05 00:00:00,Platinum,Bills,F,612572,2927937
+50,"Delhi, India",2013-10-04 00:00:00,Signature,Bills,F,735037,2848983
+622,"Delhi, India",2013-10-04 00:00:00,Silver,Food,F,122944,2550754
